@@ -66,7 +66,7 @@ input[type="submit"]:hover {
 
 .book-card {
   display: inline-block;
-  width: 300px;
+  width: 250px;
   height: 200px;
   margin: 10px;
   padding: 20px;
@@ -120,9 +120,11 @@ button {
 
 button:hover {
   background-color: #333;
-  color: fff;
+  color: #fff;
 }
 
 .read-status {
+  color: #fff;
   background-color: blue;
+  border-radius: 8px;
 }
